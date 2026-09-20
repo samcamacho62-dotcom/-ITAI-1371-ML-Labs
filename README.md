@@ -5,9 +5,8 @@ This repository contains my lab exercises, coursework, and reference materials f
 ## Contents
 
 ### Module 02: Essential Development Environment
-* **`Module_02_Lab_Exercise.ipynb`**: The primary Jupyter Notebook for this module's lab.
-* **`Module_02_Lab_Exercise.ipynb - Colab.html`**: An HTML export of the notebook for quick viewing in the browser.
-* **`ITAI 1371 Module 02 _Essential_Development_Environment_for_Machine_Learning.pptx`**: Lecture slides and presentation materials for the module.
+* **`L02_SamuelCamachoITAI1371.pdf.pdf`**: Completed lab 02 assignment for the essential development environment.
+* **`lab 02.pdf`**: Additional lab 02 reference material.
 
 ## Getting Started
-To interact with the lab exercises, open the `.ipynb` files using Jupyter Notebook, JupyterLab, or Google Colab.
+Download the PDF files to review the completed lab exercises.
